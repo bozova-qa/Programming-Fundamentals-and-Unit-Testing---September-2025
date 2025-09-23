@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\bin\Debug\net8.0\03.BonusScore.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\bin\Debug\net8.0\03.BonusScore.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\bin\Debug\net8.0\03.BonusScore.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\bin\Debug\net8.0\03.BonusScore.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\bin\Debug\net8.0\03.BonusScore.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\03.BonusScore.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\03.BonusScore.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\03.BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\03.BonusScore.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\refint\03.BonusScore.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\03.BonusScore.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\03.BonusScore.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\03.BonusScore\obj\Debug\net8.0\ref\03.BonusScore.dll

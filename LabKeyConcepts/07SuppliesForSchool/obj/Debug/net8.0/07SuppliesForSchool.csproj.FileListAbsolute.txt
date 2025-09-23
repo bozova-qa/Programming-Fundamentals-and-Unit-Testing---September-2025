@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\bin\Debug\net8.0\07SuppliesForSchool.exe
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\bin\Debug\net8.0\07SuppliesForSchool.deps.json
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\bin\Debug\net8.0\07SuppliesForSchool.runtimeconfig.json
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\bin\Debug\net8.0\07SuppliesForSchool.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\bin\Debug\net8.0\07SuppliesForSchool.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\07SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\07SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\07SuppliesForSchool.AssemblyInfo.cs
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\07SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\07SuppliesForSchool.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\refint\07SuppliesForSchool.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\07SuppliesForSchool.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\07SuppliesForSchool.genruntimeconfig.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\07SuppliesForSchool\obj\Debug\net8.0\ref\07SuppliesForSchool.dll

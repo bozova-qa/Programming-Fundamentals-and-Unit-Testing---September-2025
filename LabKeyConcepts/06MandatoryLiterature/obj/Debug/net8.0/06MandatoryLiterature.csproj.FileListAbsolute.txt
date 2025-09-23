@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\bin\Debug\net8.0\06MandatoryLiterature.exe
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\bin\Debug\net8.0\06MandatoryLiterature.deps.json
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\bin\Debug\net8.0\06MandatoryLiterature.runtimeconfig.json
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\bin\Debug\net8.0\06MandatoryLiterature.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\bin\Debug\net8.0\06MandatoryLiterature.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\06MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\06MandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\06MandatoryLiterature.AssemblyInfo.cs
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\06MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\06MandatoryLiterature.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\refint\06MandatoryLiterature.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\06MandatoryLiterature.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\06MandatoryLiterature.genruntimeconfig.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\06MandatoryLiterature\obj\Debug\net8.0\ref\06MandatoryLiterature.dll

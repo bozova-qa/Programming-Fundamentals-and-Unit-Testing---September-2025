@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\01.FreezingWeather.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\01.FreezingWeather.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\01.FreezingWeather.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\01.FreezingWeather.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\bin\Debug\net8.0\01.FreezingWeather.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\01.FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\01.FreezingWeather.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\01.FreezingWeather.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\01.FreezingWeather.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\01.FreezingWeather.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\refint\01.FreezingWeather.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\01.FreezingWeather.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\01.FreezingWeather.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\ConditionalStatements\obj\Debug\net8.0\ref\01.FreezingWeather.dll

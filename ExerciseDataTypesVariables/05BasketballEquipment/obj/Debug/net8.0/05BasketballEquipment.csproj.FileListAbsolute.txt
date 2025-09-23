@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\bin\Debug\net8.0\05BasketballEquipment.exe
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\bin\Debug\net8.0\05BasketballEquipment.deps.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\bin\Debug\net8.0\05BasketballEquipment.runtimeconfig.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\bin\Debug\net8.0\05BasketballEquipment.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\bin\Debug\net8.0\05BasketballEquipment.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\05BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\05BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\05BasketballEquipment.AssemblyInfo.cs
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\05BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\05BasketballEquipment.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\refint\05BasketballEquipment.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\05BasketballEquipment.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\05BasketballEquipment.genruntimeconfig.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\05BasketballEquipment\obj\Debug\net8.0\ref\05BasketballEquipment.dll

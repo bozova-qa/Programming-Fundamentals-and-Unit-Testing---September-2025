@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\bin\Debug\net8.0\04Tiles.exe
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\bin\Debug\net8.0\04Tiles.deps.json
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\bin\Debug\net8.0\04Tiles.runtimeconfig.json
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\bin\Debug\net8.0\04Tiles.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\bin\Debug\net8.0\04Tiles.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\04Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\04Tiles.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\04Tiles.AssemblyInfo.cs
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\04Tiles.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\04Tiles.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\refint\04Tiles.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\04Tiles.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\04Tiles.genruntimeconfig.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\04Tiles\obj\Debug\net8.0\ref\04Tiles.dll

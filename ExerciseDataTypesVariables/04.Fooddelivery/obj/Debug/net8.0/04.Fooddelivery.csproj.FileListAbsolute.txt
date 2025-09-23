@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\bin\Debug\net8.0\04.Fooddelivery.exe
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\bin\Debug\net8.0\04.Fooddelivery.deps.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\bin\Debug\net8.0\04.Fooddelivery.runtimeconfig.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\bin\Debug\net8.0\04.Fooddelivery.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\bin\Debug\net8.0\04.Fooddelivery.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\04.Fooddelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\04.Fooddelivery.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\04.Fooddelivery.AssemblyInfo.cs
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\04.Fooddelivery.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\04.Fooddelivery.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\refint\04.Fooddelivery.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\04.Fooddelivery.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\04.Fooddelivery.genruntimeconfig.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\04.Fooddelivery\obj\Debug\net8.0\ref\04.Fooddelivery.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExerciseConditionalStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9CF36D-BD81-4BB2-8452-B4B6AAA504E2}|10.SummerOutfit\\10.SummerOutfit.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\exerciseconditionalstatements\\10.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9CF36D-BD81-4BB2-8452-B4B6AAA504E2}|10.SummerOutfit\\10.SummerOutfit.csproj|solutionrelative:10.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811D715C-AAE5-4A63-8787-D0B6DC10C95E}|09.SumSeconds\\09.SumSeconds.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\exerciseconditionalstatements\\09.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811D715C-AAE5-4A63-8787-D0B6DC10C95E}|09.SumSeconds\\09.SumSeconds.csproj|solutionrelative:09.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExerciseConditionalStatements\\10.SummerOutfit\\Program.cs",
+              "RelativeDocumentMoniker": "10.SummerOutfit\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExerciseConditionalStatements\\10.SummerOutfit\\Program.cs",
+              "RelativeToolTip": "10.SummerOutfit\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:22:25.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExerciseConditionalStatements\\09.SumSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumSeconds\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExerciseConditionalStatements\\09.SumSeconds\\Program.cs",
+              "RelativeToolTip": "09.SumSeconds\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:03:15.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

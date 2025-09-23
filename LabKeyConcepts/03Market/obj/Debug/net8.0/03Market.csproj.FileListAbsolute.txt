@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\bin\Debug\net8.0\03Market.exe
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\bin\Debug\net8.0\03Market.deps.json
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\bin\Debug\net8.0\03Market.runtimeconfig.json
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\bin\Debug\net8.0\03Market.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\bin\Debug\net8.0\03Market.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\03Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\03Market.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\03Market.AssemblyInfo.cs
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\03Market.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\03Market.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\refint\03Market.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\03Market.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\03Market.genruntimeconfig.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\03Market\obj\Debug\net8.0\ref\03Market.dll

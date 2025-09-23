@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\refint\05.InvalidNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\05.InvalidNumber\obj\Debug\net8.0\ref\05.InvalidNumber.dll

@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net8.0\02.LargestNumberOutOfThree.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net8.0\02.LargestNumberOutOfThree.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net8.0\02.LargestNumberOutOfThree.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net8.0\02.LargestNumberOutOfThree.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\bin\Debug\net8.0\02.LargestNumberOutOfThree.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\02.LargestNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\02.LargestNumberOutOfThree.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\02.LargestNumberOutOfThree.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\02.LargestNumberOutOfThree.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\02.LargestNumberOutOfThree.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\refint\02.LargestNumberOutOfThree.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\02.LargestNumberOutOfThree.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\02.LargestNumberOutOfThree.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\02.LargestNumberOutOfThree\obj\Debug\net8.0\ref\02.LargestNumberOutOfThree.dll

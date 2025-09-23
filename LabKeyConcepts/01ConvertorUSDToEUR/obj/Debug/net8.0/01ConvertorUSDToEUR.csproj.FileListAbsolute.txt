@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\01ConvertorUSDToEUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\01ConvertorUSDToEUR.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\01ConvertorUSDToEUR.AssemblyInfo.cs
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\01ConvertorUSDToEUR.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\bin\Debug\net8.0\01ConvertorUSDToEUR.exe
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\bin\Debug\net8.0\01ConvertorUSDToEUR.deps.json
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\bin\Debug\net8.0\01ConvertorUSDToEUR.runtimeconfig.json
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\bin\Debug\net8.0\01ConvertorUSDToEUR.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\bin\Debug\net8.0\01ConvertorUSDToEUR.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\01ConvertorUSDToEUR.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\refint\01ConvertorUSDToEUR.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\01ConvertorUSDToEUR.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\01ConvertorUSDToEUR.genruntimeconfig.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\01ConvertorUSDToEUR\obj\Debug\net8.0\ref\01ConvertorUSDToEUR.dll

@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\refint\08.FruitOrVegetable.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\08.FruitOrVegetable\obj\Debug\net8.0\ref\08.FruitOrVegetable.dll

@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\bin\Debug\net8.0\08.SortedNumbers.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\bin\Debug\net8.0\08.SortedNumbers.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\bin\Debug\net8.0\08.SortedNumbers.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\bin\Debug\net8.0\08.SortedNumbers.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\bin\Debug\net8.0\08.SortedNumbers.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\08.SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\08.SortedNumbers.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\08.SortedNumbers.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\08.SortedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\08.SortedNumbers.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\refint\08.SortedNumbers.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\08.SortedNumbers.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\08.SortedNumbers.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\08.SortedNumbers\obj\Debug\net8.0\ref\08.SortedNumbers.dll

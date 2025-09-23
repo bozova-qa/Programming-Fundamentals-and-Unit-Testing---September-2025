@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\bin\Debug\net8.0\03.Number1…9AsWords.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\bin\Debug\net8.0\03.Number1…9AsWords.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\bin\Debug\net8.0\03.Number1…9AsWords.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\bin\Debug\net8.0\03.Number1…9AsWords.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\bin\Debug\net8.0\03.Number1…9AsWords.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\03.Number1…9AsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\03.Number1…9AsWords.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\03.Number1…9AsWords.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\03.Number1…9AsWords.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\03.Number1…9AsWords.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\refint\03.Number1…9AsWords.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\03.Number1…9AsWords.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\03.Number1…9AsWords.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ConditionalStatements\03.Number1…9AsWords\obj\Debug\net8.0\ref\03.Number1…9AsWords.dll

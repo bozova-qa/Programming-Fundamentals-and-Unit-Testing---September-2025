@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\bin\Debug\net8.0\02.ATM.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\bin\Debug\net8.0\02.ATM.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\bin\Debug\net8.0\02.ATM.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\bin\Debug\net8.0\02.ATM.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\bin\Debug\net8.0\02.ATM.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\02.ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\02.ATM.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\02.ATM.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\02.ATM.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\02.ATM.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\refint\02.ATM.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\02.ATM.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\02.ATM.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\02.ATM\obj\Debug\net8.0\ref\02.ATM.dll

@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\bin\Debug\net8.0\02FourOperations.exe
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\bin\Debug\net8.0\02FourOperations.deps.json
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\bin\Debug\net8.0\02FourOperations.runtimeconfig.json
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\bin\Debug\net8.0\02FourOperations.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\bin\Debug\net8.0\02FourOperations.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\02FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\02FourOperations.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\02FourOperations.AssemblyInfo.cs
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\02FourOperations.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\02FourOperations.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\refint\02FourOperations.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\02FourOperations.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\02FourOperations.genruntimeconfig.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\02FourOperations\obj\Debug\net8.0\ref\02FourOperations.dll

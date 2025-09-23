@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\bin\Debug\net8.0\01ReversedNumbers.exe
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\bin\Debug\net8.0\01ReversedNumbers.deps.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\bin\Debug\net8.0\01ReversedNumbers.runtimeconfig.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\bin\Debug\net8.0\01ReversedNumbers.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\bin\Debug\net8.0\01ReversedNumbers.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\01ReversedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\01ReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\01ReversedNumbers.AssemblyInfo.cs
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\01ReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\01ReversedNumbers.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\refint\01ReversedNumbers.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\01ReversedNumbers.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\01ReversedNumbers.genruntimeconfig.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\01ReversedNumbers\obj\Debug\net8.0\ref\01ReversedNumbers.dll

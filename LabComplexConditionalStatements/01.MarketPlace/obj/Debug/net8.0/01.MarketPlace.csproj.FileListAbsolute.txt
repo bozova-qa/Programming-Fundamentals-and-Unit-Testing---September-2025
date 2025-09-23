@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\bin\Debug\net8.0\01.MarketPlace.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\bin\Debug\net8.0\01.MarketPlace.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\bin\Debug\net8.0\01.MarketPlace.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\bin\Debug\net8.0\01.MarketPlace.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\bin\Debug\net8.0\01.MarketPlace.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\01.MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\01.MarketPlace.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\01.MarketPlace.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\01.MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\01.MarketPlace.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\refint\01.MarketPlace.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\01.MarketPlace.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\01.MarketPlace.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabComplexConditionalStatements\01.MarketPlace\obj\Debug\net8.0\ref\01.MarketPlace.dll

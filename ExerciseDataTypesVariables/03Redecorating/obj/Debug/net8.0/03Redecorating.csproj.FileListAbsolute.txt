@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\bin\Debug\net8.0\03Redecorating.exe
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\bin\Debug\net8.0\03Redecorating.deps.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\bin\Debug\net8.0\03Redecorating.runtimeconfig.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\bin\Debug\net8.0\03Redecorating.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\bin\Debug\net8.0\03Redecorating.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\03Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\03Redecorating.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\03Redecorating.AssemblyInfo.cs
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\03Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\03Redecorating.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\refint\03Redecorating.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\03Redecorating.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\03Redecorating.genruntimeconfig.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\03Redecorating\obj\Debug\net8.0\ref\03Redecorating.dll

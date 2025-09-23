@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\bin\Debug\net8.0\05DepositCalculator.exe
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\bin\Debug\net8.0\05DepositCalculator.deps.json
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\bin\Debug\net8.0\05DepositCalculator.runtimeconfig.json
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\bin\Debug\net8.0\05DepositCalculator.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\bin\Debug\net8.0\05DepositCalculator.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\05DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\05DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\05DepositCalculator.AssemblyInfo.cs
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\05DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\05DepositCalculator.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\refint\05DepositCalculator.dll
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\05DepositCalculator.pdb
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\05DepositCalculator.genruntimeconfig.cache
+C:\Users\nadez\source\repos\LabKeyConcepts\05DepositCalculator\obj\Debug\net8.0\ref\05DepositCalculator.dll

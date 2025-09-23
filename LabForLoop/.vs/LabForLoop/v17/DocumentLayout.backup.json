@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabForLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C01FBA8-BF42-46A8-9DEF-526D8F2F900F}|01.NumbersInRange\\01.NumbersInRange.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\labforloop\\01.numbersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C01FBA8-BF42-46A8-9DEF-526D8F2F900F}|01.NumbersInRange\\01.NumbersInRange.csproj|solutionrelative:01.numbersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabForLoop\\01.NumbersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabForLoop\\01.NumbersInRange\\Program.cs",
+              "RelativeToolTip": "01.NumbersInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T04:19:01.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

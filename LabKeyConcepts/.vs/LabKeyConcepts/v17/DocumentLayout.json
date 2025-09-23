@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\source\\repos\\LabKeyConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C18B48-B197-4CB1-BC48-8117564018AB}|01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj|c:\\users\\nadez\\source\\repos\\labkeyconcepts\\01convertorusdtoeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C18B48-B197-4CB1-BC48-8117564018AB}|01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj|solutionrelative:01convertorusdtoeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C18B48-B197-4CB1-BC48-8117564018AB}|01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj|c:\\users\\nadez\\source\\repos\\labkeyconcepts\\01convertorusdtoeur\\01convertorusdtoeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77C18B48-B197-4CB1-BC48-8117564018AB}|01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj|solutionrelative:01convertorusdtoeur\\01convertorusdtoeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48DCED5-16F8-4B95-948A-6D13A8F27C32}|07SuppliesForSchool\\07SuppliesForSchool.csproj|c:\\users\\nadez\\source\\repos\\labkeyconcepts\\07suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48DCED5-16F8-4B95-948A-6D13A8F27C32}|07SuppliesForSchool\\07SuppliesForSchool.csproj|solutionrelative:07suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\LabKeyConcepts\\01ConvertorUSDToEUR\\Program.cs",
+              "RelativeDocumentMoniker": "01ConvertorUSDToEUR\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\LabKeyConcepts\\01ConvertorUSDToEUR\\Program.cs",
+              "RelativeToolTip": "01ConvertorUSDToEUR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T16:43:51.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01ConvertorUSDToEUR",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\LabKeyConcepts\\01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj",
+              "RelativeDocumentMoniker": "01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\LabKeyConcepts\\01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj",
+              "RelativeToolTip": "01ConvertorUSDToEUR\\01ConvertorUSDToEUR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-11T16:43:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\LabKeyConcepts\\07SuppliesForSchool\\Program.cs",
+              "RelativeDocumentMoniker": "07SuppliesForSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\LabKeyConcepts\\07SuppliesForSchool\\Program.cs",
+              "RelativeToolTip": "07SuppliesForSchool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:48:16.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

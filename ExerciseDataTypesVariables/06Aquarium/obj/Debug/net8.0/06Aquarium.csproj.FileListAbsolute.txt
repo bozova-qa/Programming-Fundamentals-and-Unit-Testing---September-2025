@@ -1,0 +1,14 @@
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\bin\Debug\net8.0\06Aquarium.exe
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\bin\Debug\net8.0\06Aquarium.deps.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\bin\Debug\net8.0\06Aquarium.runtimeconfig.json
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\bin\Debug\net8.0\06Aquarium.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\bin\Debug\net8.0\06Aquarium.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\06Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\06Aquarium.AssemblyInfoInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\06Aquarium.AssemblyInfo.cs
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\06Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\06Aquarium.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\refint\06Aquarium.dll
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\06Aquarium.pdb
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\06Aquarium.genruntimeconfig.cache
+C:\Users\nadez\source\repos\ExerciseDataTypesVariablesAndKeyConcepts\06Aquarium\obj\Debug\net8.0\ref\06Aquarium.dll

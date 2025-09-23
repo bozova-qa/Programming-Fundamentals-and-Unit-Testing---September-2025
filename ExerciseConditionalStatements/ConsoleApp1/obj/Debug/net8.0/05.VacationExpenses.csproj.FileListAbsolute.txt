@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\bin\Debug\net8.0\05.VacationExpenses.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\bin\Debug\net8.0\05.VacationExpenses.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\bin\Debug\net8.0\05.VacationExpenses.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\bin\Debug\net8.0\05.VacationExpenses.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\bin\Debug\net8.0\05.VacationExpenses.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\05.VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\05.VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\05.VacationExpenses.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\05.VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\05.VacationExpenses.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\refint\05.VacationExpenses.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\05.VacationExpenses.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\05.VacationExpenses.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExerciseConditionalStatements\ConsoleApp1\obj\Debug\net8.0\ref\05.VacationExpenses.dll
