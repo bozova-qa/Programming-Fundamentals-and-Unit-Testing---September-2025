@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\refint\01.NumbersInRange.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\01.NumbersInRange\obj\Debug\net8.0\ref\01.NumbersInRange.dll

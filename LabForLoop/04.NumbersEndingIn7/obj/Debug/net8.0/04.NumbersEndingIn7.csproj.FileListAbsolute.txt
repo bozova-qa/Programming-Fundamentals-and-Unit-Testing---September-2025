@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\bin\Debug\net8.0\04.NumbersEndingIn7.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\bin\Debug\net8.0\04.NumbersEndingIn7.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\bin\Debug\net8.0\04.NumbersEndingIn7.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\bin\Debug\net8.0\04.NumbersEndingIn7.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\bin\Debug\net8.0\04.NumbersEndingIn7.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\04.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\04.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\04.NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\04.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\04.NumbersEndingIn7.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\refint\04.NumbersEndingIn7.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\04.NumbersEndingIn7.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\04.NumbersEndingIn7.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\04.NumbersEndingIn7\obj\Debug\net8.0\ref\04.NumbersEndingIn7.dll

@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\bin\Debug\net8.0\06.ExamCountdown.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\bin\Debug\net8.0\06.ExamCountdown.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\bin\Debug\net8.0\06.ExamCountdown.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\bin\Debug\net8.0\06.ExamCountdown.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\bin\Debug\net8.0\06.ExamCountdown.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\06.ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\06.ExamCountdown.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\06.ExamCountdown.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\06.ExamCountdown.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\06.ExamCountdown.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\refint\06.ExamCountdown.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\06.ExamCountdown.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\06.ExamCountdown.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\06.ExamCountdown\obj\Debug\net8.0\ref\06.ExamCountdown.dll

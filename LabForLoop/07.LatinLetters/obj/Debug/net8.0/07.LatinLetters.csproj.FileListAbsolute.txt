@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\refint\07.LatinLetters.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\07.LatinLetters\obj\Debug\net8.0\ref\07.LatinLetters.dll

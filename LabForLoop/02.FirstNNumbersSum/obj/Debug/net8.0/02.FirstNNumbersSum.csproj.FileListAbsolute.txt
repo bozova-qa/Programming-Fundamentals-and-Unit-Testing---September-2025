@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\refint\02.FirstNNumbersSum.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabForLoop\02.FirstNNumbersSum\obj\Debug\net8.0\ref\02.FirstNNumbersSum.dll
