@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\bin\Debug\net8.0\05.SumDigits.exe
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\bin\Debug\net8.0\05.SumDigits.deps.json
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\bin\Debug\net8.0\05.SumDigits.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\bin\Debug\net8.0\05.SumDigits.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\bin\Debug\net8.0\05.SumDigits.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\05.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\05.SumDigits.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\05.SumDigits.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\05.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\05.SumDigits.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\refint\05.SumDigits.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\05.SumDigits.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\05.SumDigits.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\05.SumDigits\obj\Debug\net8.0\ref\05.SumDigits.dll

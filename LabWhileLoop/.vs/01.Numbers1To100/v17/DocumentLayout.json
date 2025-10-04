@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\C# Basics\\01.Numbers1To100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E751E41-DF29-4B8A-8C00-483D59E20416}|07.NumberProcessor\\07.NumberProcessor.csproj|c:\\users\\nadez\\documents\\softuni\\c# basics\\01.numbers1to100\\07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E751E41-DF29-4B8A-8C00-483D59E20416}|07.NumberProcessor\\07.NumberProcessor.csproj|solutionrelative:07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1949D6-EC8B-43CC-960A-D055F243BCDB}|06.NumberInRange\\06.NumberInRange.csproj|c:\\users\\nadez\\documents\\softuni\\c# basics\\01.numbers1to100\\06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1949D6-EC8B-43CC-960A-D055F243BCDB}|06.NumberInRange\\06.NumberInRange.csproj|solutionrelative:06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\C# Basics\\01.Numbers1To100\\06.NumberInRange\\Program.cs",
+              "RelativeDocumentMoniker": "06.NumberInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\C# Basics\\01.Numbers1To100\\06.NumberInRange\\Program.cs",
+              "RelativeToolTip": "06.NumberInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:45:59.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\C# Basics\\01.Numbers1To100\\07.NumberProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "07.NumberProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\C# Basics\\01.Numbers1To100\\07.NumberProcessor\\Program.cs",
+              "RelativeToolTip": "07.NumberProcessor\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:44:54.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

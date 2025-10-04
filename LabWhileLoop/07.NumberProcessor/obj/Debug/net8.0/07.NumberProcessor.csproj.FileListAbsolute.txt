@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.exe
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.deps.json
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\refint\07.NumberProcessor.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\01.Numbers1To100\07.NumberProcessor\obj\Debug\net8.0\ref\07.NumberProcessor.dll
