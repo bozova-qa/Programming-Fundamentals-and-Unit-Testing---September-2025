@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.exe
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.deps.json
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\refint\03.BiggestNumber.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\03.BiggestNumber\obj\Debug\net8.0\ref\03.BiggestNumber.dll

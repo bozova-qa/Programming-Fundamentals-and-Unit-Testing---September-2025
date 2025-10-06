@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.exe
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.deps.json
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\refint\01.PowerOfNumber.dll
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.pdb
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\C# Basics\LoopsExercise\01.PowerOfNumber\obj\Debug\net8.0\ref\01.PowerOfNumber.dll

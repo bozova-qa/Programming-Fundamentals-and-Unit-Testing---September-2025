@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net8.0\06.SpecialNumber.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net8.0\06.SpecialNumber.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net8.0\06.SpecialNumber.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net8.0\06.SpecialNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\bin\Debug\net8.0\06.SpecialNumber.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\06.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\06.SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\06.SpecialNumber.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\06.SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\06.SpecialNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\refint\06.SpecialNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\06.SpecialNumber.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\06.SpecialNumber.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LoopsExercise\06.SpecialNumber\obj\Debug\net8.0\ref\06.SpecialNumber.dll
