@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\bin\Debug\net8.0\01.NumbersFromNTo1.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\bin\Debug\net8.0\01.NumbersFromNTo1.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\bin\Debug\net8.0\01.NumbersFromNTo1.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\bin\Debug\net8.0\01.NumbersFromNTo1.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\bin\Debug\net8.0\01.NumbersFromNTo1.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\01.NumbersFromNTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\01.NumbersFromNTo1.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\01.NumbersFromNTo1.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\01.NumbersFromNTo1.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\01.NumbersFromNTo1.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\refint\01.NumbersFromNTo1.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\01.NumbersFromNTo1.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\01.NumbersFromNTo1.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\01.NumbersFromNTo1\obj\Debug\net8.0\ref\01.NumbersFromNTo1.dll

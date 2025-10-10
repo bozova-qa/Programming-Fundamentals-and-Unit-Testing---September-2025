@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\bin\Debug\net8.0\03.TriangleОfStars.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\bin\Debug\net8.0\03.TriangleОfStars.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\bin\Debug\net8.0\03.TriangleОfStars.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\bin\Debug\net8.0\03.TriangleОfStars.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\bin\Debug\net8.0\03.TriangleОfStars.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\03.TriangleОfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\03.TriangleОfStars.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\03.TriangleОfStars.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\03.TriangleОfStars.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\03.TriangleОfStars.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\refint\03.TriangleОfStars.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\03.TriangleОfStars.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\03.TriangleОfStars.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\03.TriangleОfStars\obj\Debug\net8.0\ref\03.TriangleОfStars.dll

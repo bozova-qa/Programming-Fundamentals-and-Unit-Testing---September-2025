@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\bin\Debug\net8.0\DemoNestedLoop.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\bin\Debug\net8.0\DemoNestedLoop.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\bin\Debug\net8.0\DemoNestedLoop.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\bin\Debug\net8.0\DemoNestedLoop.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\bin\Debug\net8.0\DemoNestedLoop.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\DemoNestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\DemoNestedLoop.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\DemoNestedLoop.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\DemoNestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\DemoNestedLoop.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\refint\DemoNestedLoop.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\DemoNestedLoop.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\DemoNestedLoop.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\DemoNestedLoop\obj\Debug\net8.0\ref\DemoNestedLoop.dll

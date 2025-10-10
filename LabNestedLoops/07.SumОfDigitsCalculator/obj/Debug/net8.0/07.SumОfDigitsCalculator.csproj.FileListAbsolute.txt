@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\bin\Debug\net8.0\07.SumОfDigitsCalculator.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\bin\Debug\net8.0\07.SumОfDigitsCalculator.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\bin\Debug\net8.0\07.SumОfDigitsCalculator.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\bin\Debug\net8.0\07.SumОfDigitsCalculator.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\bin\Debug\net8.0\07.SumОfDigitsCalculator.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\07.SumОfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\07.SumОfDigitsCalculator.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\07.SumОfDigitsCalculator.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\07.SumОfDigitsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\07.SumОfDigitsCalculator.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\refint\07.SumОfDigitsCalculator.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\07.SumОfDigitsCalculator.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\07.SumОfDigitsCalculator.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\07.SumОfDigitsCalculator\obj\Debug\net8.0\ref\07.SumОfDigitsCalculator.dll

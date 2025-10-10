@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\refint\06.TravelSavings.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabNestedLoops\06.TravelSavings\obj\Debug\net8.0\ref\06.TravelSavings.dll
