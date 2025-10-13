@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4A6A69-8B5E-44E1-B278-94AAE8CFB5E4}|07.GreaterOfTwoValues\\07.GreaterOfTwoValues.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\labmethods\\07.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4A6A69-8B5E-44E1-B278-94AAE8CFB5E4}|07.GreaterOfTwoValues\\07.GreaterOfTwoValues.csproj|solutionrelative:07.greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\AppData\\Local\\Temp\\abdabd03-490e-4ece-9aab-9506863d9881_11-Methods-Lab-Solutions.zip.881\\07-Greater-of-Two-Values\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF58965D-5EF0-4065-B1F1-07FCCF20FBEA}|05.RepeatString\\05.RepeatString.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\labmethods\\05.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF58965D-5EF0-4065-B1F1-07FCCF20FBEA}|05.RepeatString\\05.RepeatString.csproj|solutionrelative:05.repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\AppData\\Local\\Temp\\abdabd03-490e-4ece-9aab-9506863d9881_11-Methods-Lab-Solutions.zip.881\\07-Greater-of-Two-Values\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\abdabd03-490e-4ece-9aab-9506863d9881_11-Methods-Lab-Solutions.zip.881\\07-Greater-of-Two-Values\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\AppData\\Local\\Temp\\abdabd03-490e-4ece-9aab-9506863d9881_11-Methods-Lab-Solutions.zip.881\\07-Greater-of-Two-Values\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\abdabd03-490e-4ece-9aab-9506863d9881_11-Methods-Lab-Solutions.zip.881\\07-Greater-of-Two-Values\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:20:03.393Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabMethods\\07.GreaterOfTwoValues\\Program.cs",
+              "RelativeDocumentMoniker": "07.GreaterOfTwoValues\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabMethods\\07.GreaterOfTwoValues\\Program.cs",
+              "RelativeToolTip": "07.GreaterOfTwoValues\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:09:28.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabMethods\\05.RepeatString\\Program.cs",
+              "RelativeDocumentMoniker": "05.RepeatString\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\LabMethods\\05.RepeatString\\Program.cs",
+              "RelativeToolTip": "05.RepeatString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:54:42.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

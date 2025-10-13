@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\refint\03.PrintingTriangle.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabMethods\03.PrintingTriangle\obj\Debug\net8.0\ref\03.PrintingTriangle.dll
