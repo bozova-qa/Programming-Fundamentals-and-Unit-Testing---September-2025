@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\bin\Debug\net8.0\02.SumАnArray.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\bin\Debug\net8.0\02.SumАnArray.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\bin\Debug\net8.0\02.SumАnArray.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\bin\Debug\net8.0\02.SumАnArray.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\bin\Debug\net8.0\02.SumАnArray.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\02.SumАnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\02.SumАnArray.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\02.SumАnArray.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\02.SumАnArray.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\02.SumАnArray.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\refint\02.SumАnArray.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\02.SumАnArray.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\02.SumАnArray.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabArrays\02.SumАnArray\obj\Debug\net8.0\ref\02.SumАnArray.dll
