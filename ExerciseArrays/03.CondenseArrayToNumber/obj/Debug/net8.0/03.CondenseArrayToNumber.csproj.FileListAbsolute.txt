@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\bin\Debug\net8.0\03.CondenseArrayToNumber.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\bin\Debug\net8.0\03.CondenseArrayToNumber.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\bin\Debug\net8.0\03.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\bin\Debug\net8.0\03.CondenseArrayToNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\bin\Debug\net8.0\03.CondenseArrayToNumber.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\03.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\03.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\03.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\03.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\03.CondenseArrayToNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\refint\03.CondenseArrayToNumber.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\03.CondenseArrayToNumber.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\03.CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\03.CondenseArrayToNumber\obj\Debug\net8.0\ref\03.CondenseArrayToNumber.dll

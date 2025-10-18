@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B956C9-7CAF-411B-A334-A78F2EBAC8C4}|07.TopIntegers\\07.TopIntegers.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\excercisearrays\\07.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B956C9-7CAF-411B-A334-A78F2EBAC8C4}|07.TopIntegers\\07.TopIntegers.csproj|solutionrelative:07.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33B594-D146-41B1-9FB5-42F8DD49A1CA}|06.ArrayRotation\\06.ArrayRotation.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\excercisearrays\\06.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33B594-D146-41B1-9FB5-42F8DD49A1CA}|06.ArrayRotation\\06.ArrayRotation.csproj|solutionrelative:06.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BF4784-BA60-4685-9723-B5FD3617DB91}|05.Zig-ZagArrays\\05.Zig-ZagArrays.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\excercisearrays\\05.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BF4784-BA60-4685-9723-B5FD3617DB91}|05.Zig-ZagArrays\\05.Zig-ZagArrays.csproj|solutionrelative:05.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030DF9D0-28F2-4DB6-A37F-C5CF9A9D314F}|04.MagicSum\\04.MagicSum.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\excercisearrays\\04.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030DF9D0-28F2-4DB6-A37F-C5CF9A9D314F}|04.MagicSum\\04.MagicSum.csproj|solutionrelative:04.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57453F89-65C0-4B40-8D24-8794487F5622}|02.CommonElements\\02.CommonElements.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\excercisearrays\\02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57453F89-65C0-4B40-8D24-8794487F5622}|02.CommonElements\\02.CommonElements.csproj|solutionrelative:02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FADDBC8-D9C8-4DAD-B0E8-BAA29CFFB3B0}|03.CondenseArrayToNumber\\03.CondenseArrayToNumber.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\repos\\excercisearrays\\03.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FADDBC8-D9C8-4DAD-B0E8-BAA29CFFB3B0}|03.CondenseArrayToNumber\\03.CondenseArrayToNumber.csproj|solutionrelative:03.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\07.TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "07.TopIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\07.TopIntegers\\Program.cs",
+              "RelativeToolTip": "07.TopIntegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T05:04:57.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\06.ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "06.ArrayRotation\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\06.ArrayRotation\\Program.cs",
+              "RelativeToolTip": "06.ArrayRotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:43:56.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\05.Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "05.Zig-ZagArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\05.Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "05.Zig-ZagArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:52:53.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\02.CommonElements\\Program.cs",
+              "RelativeDocumentMoniker": "02.CommonElements\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\02.CommonElements\\Program.cs",
+              "RelativeToolTip": "02.CommonElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:21:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\04.MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "04.MagicSum\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\04.MagicSum\\Program.cs",
+              "RelativeToolTip": "04.MagicSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:43:54.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\03.CondenseArrayToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "03.CondenseArrayToNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\repos\\ExcerciseArrays\\03.CondenseArrayToNumber\\Program.cs",
+              "RelativeToolTip": "03.CondenseArrayToNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:07:31.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

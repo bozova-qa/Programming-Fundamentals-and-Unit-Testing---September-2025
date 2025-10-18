@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\bin\Debug\net8.0\01.Equal Arrays.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\bin\Debug\net8.0\01.Equal Arrays.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\bin\Debug\net8.0\01.Equal Arrays.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\bin\Debug\net8.0\01.Equal Arrays.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\bin\Debug\net8.0\01.Equal Arrays.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\01.Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\01.Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\01.Equal Arrays.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\01.Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\01.Equal Arrays.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\refint\01.Equal Arrays.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\01.Equal Arrays.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\01.Equal Arrays.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\01.Equal Arrays\obj\Debug\net8.0\ref\01.Equal Arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\refint\02.CommonElements.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\02.CommonElements\obj\Debug\net8.0\ref\02.CommonElements.dll

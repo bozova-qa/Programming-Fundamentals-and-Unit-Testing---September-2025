@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\bin\Debug\net8.0\07.TopIntegers.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\bin\Debug\net8.0\07.TopIntegers.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\bin\Debug\net8.0\07.TopIntegers.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\bin\Debug\net8.0\07.TopIntegers.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\bin\Debug\net8.0\07.TopIntegers.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\07.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\07.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\07.TopIntegers.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\07.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\07.TopIntegers.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\refint\07.TopIntegers.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\07.TopIntegers.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\07.TopIntegers.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\ExcerciseArrays\07.TopIntegers\obj\Debug\net8.0\ref\07.TopIntegers.dll
