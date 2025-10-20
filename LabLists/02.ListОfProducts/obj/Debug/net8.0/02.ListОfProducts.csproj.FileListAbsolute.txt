@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\bin\Debug\net8.0\02.ListОfProducts.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\bin\Debug\net8.0\02.ListОfProducts.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\bin\Debug\net8.0\02.ListОfProducts.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\bin\Debug\net8.0\02.ListОfProducts.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\bin\Debug\net8.0\02.ListОfProducts.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\02.ListОfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\02.ListОfProducts.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\02.ListОfProducts.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\02.ListОfProducts.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\02.ListОfProducts.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\refint\02.ListОfProducts.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\02.ListОfProducts.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\02.ListОfProducts.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Fundamentals and Unit Testing\repos\LabLists\02.ListОfProducts\obj\Debug\net8.0\ref\02.ListОfProducts.dll
