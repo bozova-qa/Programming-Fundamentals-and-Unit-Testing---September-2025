@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\LabUnitTestingArrays\\UnitTestingArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\labunittestingarrays\\unittestingarrays\\testapp.unittests\\primenumberfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\primenumberfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\labunittestingarrays\\unittestingarrays\\testapp\\primenumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\primenumberfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeNumberFinder.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\LabUnitTestingArrays\\UnitTestingArrays\\TestApp\\PrimeNumberFinder.cs",
+              "RelativeDocumentMoniker": "TestApp\\PrimeNumberFinder.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\LabUnitTestingArrays\\UnitTestingArrays\\TestApp\\PrimeNumberFinder.cs",
+              "RelativeToolTip": "TestApp\\PrimeNumberFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:20:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeNumberFinderTests.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\LabUnitTestingArrays\\UnitTestingArrays\\TestApp.UnitTests\\PrimeNumberFinderTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PrimeNumberFinderTests.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\LabUnitTestingArrays\\UnitTestingArrays\\TestApp.UnitTests\\PrimeNumberFinderTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PrimeNumberFinderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:20:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
