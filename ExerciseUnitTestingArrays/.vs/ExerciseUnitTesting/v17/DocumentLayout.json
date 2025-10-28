@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\ExerciseUnitTestingArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exerciseunittestingarrays\\testapp.unittests\\repeatingchecker_lastreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\repeatingchecker_lastreapeatingelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exerciseunittestingarrays\\testapp\\repeatingchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\repeatingchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepeatingChecker.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\ExerciseUnitTestingArrays\\TestApp\\RepeatingChecker.cs",
+              "RelativeDocumentMoniker": "TestApp\\RepeatingChecker.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\ExerciseUnitTestingArrays\\TestApp\\RepeatingChecker.cs",
+              "RelativeToolTip": "TestApp\\RepeatingChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:28:07.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepeatingChecker_LastReapeatingElementTests.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\ExerciseUnitTestingArrays\\TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\ExerciseUnitTestingArrays\\TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\RepeatingChecker_LastReapeatingElementTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:01:24.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
