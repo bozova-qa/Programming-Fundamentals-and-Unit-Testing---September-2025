@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Exam Prep 1 Resources\\03-Divisible-By-Three-Finder-Resources\\03-Divisible-By-Three-Finder-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exams\\exam prep 1 resources\\03-divisible-by-three-finder-resources\\03-divisible-by-three-finder-resources\\testapp.tests\\numberutilitiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\numberutilitiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exams\\exam prep 1 resources\\03-divisible-by-three-finder-resources\\03-divisible-by-three-finder-resources\\testapp\\numberutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|solutionrelative:testapp\\numberutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Exam Prep 1 Resources\\03-Divisible-By-Three-Finder-Resources\\03-Divisible-By-Three-Finder-Resources\\TestApp\\NumberUtilities.cs",
+              "RelativeDocumentMoniker": "TestApp\\NumberUtilities.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Exam Prep 1 Resources\\03-Divisible-By-Three-Finder-Resources\\03-Divisible-By-Three-Finder-Resources\\TestApp\\NumberUtilities.cs",
+              "RelativeToolTip": "TestApp\\NumberUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:38:29.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberUtilitiesTests.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Exam Prep 1 Resources\\03-Divisible-By-Three-Finder-Resources\\03-Divisible-By-Three-Finder-Resources\\TestApp.Tests\\NumberUtilitiesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\NumberUtilitiesTests.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Exam Prep 1 Resources\\03-Divisible-By-Three-Finder-Resources\\03-Divisible-By-Three-Finder-Resources\\TestApp.Tests\\NumberUtilitiesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\NumberUtilitiesTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:38:31.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

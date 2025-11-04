@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\ExamPrep2\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exams\\examprep2\\04-censor-word-in-sentence-resources\\04-censor-word-in-sentence-resources\\testapp.tests\\textcensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97738044-3501-4162-BE00-4C012BA71AF3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\textcensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exams\\examprep2\\04-censor-word-in-sentence-resources\\04-censor-word-in-sentence-resources\\testapp\\textcensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|solutionrelative:testapp\\textcensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextCensor.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\ExamPrep2\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\TestApp\\TextCensor.cs",
+              "RelativeDocumentMoniker": "TestApp\\TextCensor.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\ExamPrep2\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\TestApp\\TextCensor.cs",
+              "RelativeToolTip": "TestApp\\TextCensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:20:27.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextCensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\ExamPrep2\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\TestApp.Tests\\TextCensorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\TextCensorTests.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\ExamPrep2\\04-Censor-Word-in-Sentence-Resources\\04-Censor-Word-in-Sentence-Resources\\TestApp.Tests\\TextCensorTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\TextCensorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:20:29.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

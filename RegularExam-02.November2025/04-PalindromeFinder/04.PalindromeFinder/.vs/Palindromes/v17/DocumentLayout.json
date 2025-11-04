@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Regular Exam - 02. November 2025\\04-PalindromeFinder_Resources\\04.PalindromeFinder_Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07FB6F7-A2F3-4D11-8F78-367C04E1B6A9}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exams\\regular exam - 02. november 2025\\04-palindromefinder_resources\\04.palindromefinder_resources\\testapp.tests\\palindromefindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07FB6F7-A2F3-4D11-8F78-367C04E1B6A9}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\palindromefindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8D69EC-6776-42D9-99F8-42E88BABB580}|TestApp\\TestApp.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming fundamentals and unit testing\\exams\\regular exam - 02. november 2025\\04-palindromefinder_resources\\04.palindromefinder_resources\\testapp\\palindromefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8D69EC-6776-42D9-99F8-42E88BABB580}|TestApp\\TestApp.csproj|solutionrelative:testapp\\palindromefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PalindromeFinder.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Regular Exam - 02. November 2025\\04-PalindromeFinder_Resources\\04.PalindromeFinder_Resources\\TestApp\\PalindromeFinder.cs",
+              "RelativeDocumentMoniker": "TestApp\\PalindromeFinder.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Regular Exam - 02. November 2025\\04-PalindromeFinder_Resources\\04.PalindromeFinder_Resources\\TestApp\\PalindromeFinder.cs",
+              "RelativeToolTip": "TestApp\\PalindromeFinder.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:41:16.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalindromeFinderTests.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Regular Exam - 02. November 2025\\04-PalindromeFinder_Resources\\04.PalindromeFinder_Resources\\TestApp.Tests\\PalindromeFinderTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PalindromeFinderTests.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Fundamentals and Unit Testing\\Exams\\Regular Exam - 02. November 2025\\04-PalindromeFinder_Resources\\04.PalindromeFinder_Resources\\TestApp.Tests\\PalindromeFinderTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PalindromeFinderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:41:19.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
